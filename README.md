@@ -1,6 +1,6 @@
 # Olá sou a Gabriela Camargo
 ### Física Biomolecular pela USP e mestranda em dados também nessa área. Fiz uma migração de carreira em 2022 e atualmente sou engenheira de dados em treinamento pela Americanas S.A.
-### Perfil focado no momento para projetos desenvolvidos nos cursos que faço.
+### Perfil do github focado no momento para projetos desenvolvidos nos cursos que faço.
 
 ### Experiência:
 - 🏦 Formação em física biomolecular USP - São Carlos.
